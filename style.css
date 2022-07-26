@@ -1,0 +1,16 @@
+body {
+    height: 400vh;
+}
+
+::-webkit-scrollbar {
+    width: 20px;
+}
+
+::-webkit-scrollbar-track {
+    background: #ddd;
+}
+
+::-webkit-scrollbar-thumb {
+    background: deeppink;
+}
+
